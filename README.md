@@ -1,4 +1,3 @@
-# **BSCS3004-Deep-Learning-resources**
+# **[BSCS3004 Deep Learning](https://study.iitm.ac.in/ds/course_pages/BSCS3004.html)**
 
-**Check `notebooks` directory for educational stuff**
-
+**[Click here for the notes](./notes/)**
